@@ -1,0 +1,9 @@
+@import "./color_schemes/light";
+////redefine the default purple as greens
+$green-000: #77ed53 !default;
+$green-100: #5ed041 !default;
+$green-200: #46af26 !default;
+$green-300: #188533 !default;
+
+$link-color: $green-000 !default;
+$btn-primary-color: $green-100 !default;
